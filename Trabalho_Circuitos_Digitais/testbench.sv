@@ -16,7 +16,7 @@ module temporizador_tb;
     );
 
     initial begin
-        clock_tb = 0;
+        clock_tb = 1;
         reset_tb = 1;
         sinal_tb = 0;
 
